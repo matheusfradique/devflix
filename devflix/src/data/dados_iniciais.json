@@ -180,6 +180,38 @@
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
+    },
+
+    {
+      "titulo": "Desenvolvendo Sites do zero com WordPress",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "TRAILER - Curso WordPress Profissional",
+        "url": "https://youtu.be/JPR4OK4c35Q?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+      },
+      "videos": [
+        {
+          "titulo": "Como vai ser o site que criaremos com WordPress? - Curso WordPress 00",
+          "url": "https://youtu.be/vkN1FAIoRic?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+        },
+        {
+          "titulo": "Evolução do WordPress (parte 1) - Curso WordPress 01a",
+          "url": "https://youtu.be/BDUeeEaxMEg?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+        },
+        {
+          "titulo": "Evolução do WordPress (parte 2) - Curso WordPress 01b",
+          "url": "https://youtu.be/t4sLUmejkUU?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+        },
+        {
+          "titulo": "Mitos e verdades sobre o WordPress - Curso WordPress 02",
+          "url": "https://youtu.be/ZDdHbVHaxCU?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+        },
+        {
+          "titulo": "Ferramentas úteis para desenvolvedores - Curso WordPress 03",
+          "url": "https://youtu.be/kNABhDkuZ0o?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+        }
+      ]
     }
+    
   ]
 }
